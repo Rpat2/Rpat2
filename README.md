@@ -1,6 +1,6 @@
 # Hello! 
 
-Want to Connect: [LinkedIn](www.linkedin.com/in/roshan-patel-2b985b2a8)
+Want to Connect: [LinkedIn](https://www.linkedin.com/in/roshan-patel-2b985b2a8)
 
 
 ## My Bio

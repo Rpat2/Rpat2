@@ -2,8 +2,12 @@
 
 Want to Connect: LinkedIn
 
+
 ## My Bio
 
+Currently a Computer Science Student at Oregon State University 
+Expected Graduation is in January 2025 
+Currently learning Databases/SQL 
 
 <!--
 **Rpat2/Rpat2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

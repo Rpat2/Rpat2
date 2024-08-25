@@ -7,7 +7,7 @@ Want to Connect: [LinkedIn](https://www.linkedin.com/in/roshan-patel-2b985b2a8)
 
 Currently a Computer Science Student at Oregon State University     
 Currently learning Databases/SQL   
-Expected Graduation is in January 2025
+Expected Graduation is in December 2025
 
 <!--
 **Rpat2/Rpat2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,6 @@ Want to Connect: [LinkedIn](https://www.linkedin.com/in/roshan-patel-2b985b2a8)
 ## My Bio
 
 Currently a Computer Science Student at Oregon State University     
-Currently learning Databases/SQL   
 Expected Graduation is in December 2026
 
 <!--
